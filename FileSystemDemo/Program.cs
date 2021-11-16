@@ -43,7 +43,7 @@ namespace FileSystemDemo
                 Directory.CreateDirectory(newPath);
             }*/
             //string[] files = Directory.GetFiles(rootPath);
-            //string destiantionFolder = @"C:\Users\opilane\samples\Test\Wishlist";
+            //string destiantionFolder = @"C:\Users\monkey\samples\Test\Wishlist";
             /*foreach (string file in files)
             {
                Console.WriteLine(file, $"{destiantionFolder}{ Path.GetFileName(file)}", true);
