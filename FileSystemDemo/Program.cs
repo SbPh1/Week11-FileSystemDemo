@@ -30,7 +30,7 @@ namespace FileSystemDemo
                 
                 Console.WriteLine($"{ Path.GetFileName(file) }: { info.Length } bytes");
               }*/
-            //string newPath = @"C:\Users\opilane\samples\Test\Wishlist";
+            //string newPath = @"C:\Users\monkey\samples\Test\Wishlist";
             //Directory.CreateDirectory(newPath);
             /*bool directoryExists = Directory.Exists(newPath);
             if (directoryExists)
